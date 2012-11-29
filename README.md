@@ -1,0 +1,4 @@
+frisko-translations
+===================
+
+Translation strings
