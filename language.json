@@ -1,0 +1,80 @@
+
+
+{
+
+    "utilQuit":"Do you want to quit the application?",
+    
+    "utilUpdate":"Update available, want to download?",
+    
+    "utilUpdateForce":"Update available, you have to download.",
+    
+    "utilUpdateAppStoreText":"App Store",
+    
+    "utilSignUp":"Sign Up",
+    
+    "utilLogIn":"Log In",
+    
+    "utilLogOut":"Log out",
+    
+    "utilGo":"Go",
+    
+    "utilContinue":"Continue",
+    
+    "utilNext":"Next",
+    
+    "utilCreateAccount":"Create Account",
+    
+    "utilDeleteAccount":"Delete Account",
+    
+    "utilAreYouSure":"Are you sure?",
+    
+    "utilInsertText":"Insert your text here",
+    
+    "utilNo":"No",
+    
+    "utilYes":"Yes",
+    
+    "utilOk":"OK",
+    
+    "utilCancel":"Cancel",
+    
+    "utilDelete":"Delete",
+    
+    "utilShare":"Share",
+    
+    "utilLike":"Like",
+    
+    "utilLiked":"Liked",
+    
+    "utilExplore":"Explore",
+    
+    "utilVideos":"Videos",
+    
+    "utilSettings":"Settings",
+    
+    "utilOn":"ON",
+    
+    "utilOff":"OFF",
+    
+    "utilChoose":"Choose",
+    
+    "utilSelect":"Select",
+    
+    "utilSubmit":"Submit",
+    
+    "utilIn":"in",
+    
+    "utilBy":"by",
+    
+    "utilMinute":"minute ago",
+    
+    "utilMinutes":"minutes ago",
+    
+    "utilHour":"hour ago",
+    
+    "utilHours":"hours ago",
+    
+    "utilDay":"day ago",
+    
+    "utilDays":"days ago"
+}
