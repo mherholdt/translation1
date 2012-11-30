@@ -77,4 +77,8 @@
     "utilDay":"day ago",
     
     "utilDays":"days ago"
+    
+    
+    "AlertConnectionErrorTitle":"Connection error",
+    "AlertConnectionErrorMessage":"Please check your internet connection",
 }
