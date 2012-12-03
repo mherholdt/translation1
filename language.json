@@ -2,84 +2,128 @@
 
 {
 
-    "utilQuit":"Do you want to quit the application?",
+    "utilCancel":"Annullér",
     
-    "utilUpdate":"Update available, want to download?",
+    "utilChoose":"Vælg",
+	
+    "utilDelete":"Slet",
     
-    "utilUpdateForce":"Update available, you have to download.",
+    "utilEmail":"Email",
     
-    "utilUpdateAppStoreText":"App Store",
+    "utilEnd":"Slut",
     
-    "utilSignUp":"Sign Up",
-    
-    "utilLogIn":"Log In",
-    
-    "utilLogOut":"Log out",
-    
-    "utilGo":"Go",
-    
-    "utilContinue":"Continue",
-    
-    "utilNext":"Next",
-    
-    "utilCreateAccount":"Create Account",
-    
-    "utilDeleteAccount":"Delete Account",
-    
-    "utilAreYouSure":"Are you sure?",
+    "utilGoToFrontpage":"Gå til Forsiden",
     
     "utilInsertText":"Insert your text here",
     
-    "utilNo":"No",
+    "utilLogIn":"Log ind",
     
-    "utilYes":"Yes",
+    "utilLogInFacebookButton":"Log In",
     
-    "utilOk":"OK",
+    "utilLogOut":"Log ud",
     
-    "utilCancel":"Cancel",
+    "utilNew":"Ny",
     
-    "utilDelete":"Delete",
-    
-    "utilShare":"Share",
-    
-    "utilLike":"Like",
-    
-    "utilLiked":"Liked",
-    
-    "utilExplore":"Explore",
-    
-    "utilVideos":"Videos",
-    
-    "utilSettings":"Settings",
-    
-    "utilOn":"ON",
+    "utilNo":"Nej",
     
     "utilOff":"OFF",
     
-    "utilChoose":"Choose",
+    "utilOk":"Okay",
     
-    "utilSelect":"Select",
+    "utilOn":"ON",
+
+	"utilPassword":"Password",
+
+    "utilQuit":"Er du sikker på du vil afslutte?",
     
-    "utilSubmit":"Submit",
+    "utilSelect":"Vælg",
     
-    "utilIn":"in",
+    "utilSend":"Send",
+        
+    "utilSettings":"Indstillinger",
     
-    "utilBy":"by",
+    "utilShare":"Del",
     
-    "utilMinute":"minute ago",
+    "utilStart":"Start",
     
-    "utilMinutes":"minutes ago",
+    "utilTryAgain":"Prøv igen",
+        
+    "utilUpdate":"Opdatering tilgængelig. Download nu?",
     
-    "utilHour":"hour ago",
+    "utilUpdateForce":"Der findes en nødvendig opdatering. Tryk for at downloade.",
     
-    "utilHours":"hours ago",
+    "utilUpdateAppStoreText":"App Store",
     
-    "utilDay":"day ago",
+    "utilRedeemed":"Indløst",
     
-    "utilDays":"days ago",
+    "utilYes":"Ja",
+        
+
+    
+	"loginCreateAccount":"Opret ny bruger",
+	
+	"loginCreateAccountButton":"Opret",
+	
+	"loginErrorEmailPasswordNotMatchingTitle":"Den indtastede email og password matchede ikke hinanden.",
+	
+	"loginErrorEmailPasswordNotMatchingText":"Proin gravida nibh vel velit...",
+	
+    "loginForgotPassword":"Glemt password?",
+    
+    "loginForgotPasswordEmailSentTitle":"Email er afsendt",
+    
+    "loginForgotPasswordEmailSentText":"Proin gravida nibh vel velit...",
+    
+    "loginForgotPasswordInstructions":"Skriv din email her, så hjælper vi dig videre.",
+    
+    "loginLoginWithFacebook":"Log ind med facebook",
+    
+    "loginOrEmailAndPassword":"Eller email og password",
+    
+    
+    
+    "pageCampaigns":"Kampagner",
+    
+    "pageFrontpage":"Forsiden",
+    
+    "pageProfile":"Profil",
+    
+    "pageScanIcecream":"Scan is",
+    
+    "pageShop":"Shop",
+    
+    
+    
+    "scanStep1Instructions":"Scan stregkoden på din is",
+    
+    "scanStep1Details":"Hold stregkoden op foran kameraet på din telefon. Du bliver automatisk sendt videre, når koden er scannet.",
+    
+    "scanStep2Instructions":"Du har scannet en",
+    
+    "scanStep3Instructions":"Tag et billede af at du spiser isen",
+    
+    "scanStep3Confirm":"Godkend billedet, eller tag et nyt",
+    
+    "scanCompletedCongratulations":"Tillykke!",
+    
+    "scanCompletedYouHaveWonPart1":"Du har vundet 20 heartbeats",
+    
+    "scanCompletedYouHaveWonPart2":"and a ShareHappy",
+    
+    "scanCompletedYouHaveWonShareHappyDescription":"Share Happy giver dig selv 10 heartbeats og 3x10 heartbeats som du kan give til dine venner.",
+    
+    "scanCompletedHeartbeatsDescription":"Heartbeats kan bruges i shoppen til at købe præmier for.",
+    
+    "scanCompletedSendHeartbeats":"Send heartbeats",
+    
+    
+    
+    "shareTypeNameOrEmail":"Skriv navn eller email",
+    
     
     
     "AlertConnectionErrorTitle":"Connection error",
+    
     "AlertConnectionErrorMessage":"Please check your internet connection",
     
     "AlertTest":"Test!",
