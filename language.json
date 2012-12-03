@@ -82,5 +82,7 @@
     "AlertConnectionErrorTitle":"Connection error",
     "AlertConnectionErrorMessage":"Please check your internet connection",
     
-    "AlertTest":"Test!"
+    "AlertTest":"Test!",
+    
+    "ServerChangeTest":"It works!"
 }
