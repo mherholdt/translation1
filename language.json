@@ -36,6 +36,10 @@
 
     "utilQuit":"Er du sikker på du vil afslutte?",
     
+    "utilRedeemed":"Indløst",
+    
+    "utilSearch":"Søg",
+    
     "utilSelect":"Vælg",
     
     "utilSend":"Send",
@@ -50,29 +54,43 @@
         
     "utilUpdate":"Opdatering tilgængelig. Download nu?",
     
-    "utilUpdateForce":"Der findes en nødvendig opdatering. Tryk for at downloade.",
-    
     "utilUpdateAppStoreText":"App Store",
     
-    "utilRedeemed":"Indløst",
+    "utilUpdateForce":"Der findes en nødvendig opdatering. Tryk for at downloade.",
     
     "utilYes":"Ja",
         
+
+
+	"aboutAppText":"Proin gravida nibh vel velit...",
+	
+	"aboutAppTitle":"Om appen",
+	
+	"aboutContestConditionsText":"Proin gravida nibh vel velit...",
+	
+	"aboutContestConditionsTitle":"Konkurrencebetingelser",
+	
+
+
+	"icecreamsTitle":"Istyper",
+
+	"icecreamsSearchHint":"Skriv en is",
+
 
     
 	"loginCreateAccount":"Opret ny bruger",
 	
 	"loginCreateAccountButton":"Opret",
 	
-	"loginErrorEmailPasswordNotMatchingTitle":"Den indtastede email og password matchede ikke hinanden.",
-	
 	"loginErrorEmailPasswordNotMatchingText":"Proin gravida nibh vel velit...",
+	
+	"loginErrorEmailPasswordNotMatchingTitle":"Den indtastede email og password matchede ikke hinanden.",
 	
     "loginForgotPassword":"Glemt password?",
     
-    "loginForgotPasswordEmailSentTitle":"Email er afsendt",
-    
     "loginForgotPasswordEmailSentText":"Proin gravida nibh vel velit...",
+    
+    "loginForgotPasswordEmailSentTitle":"Email er afsendt",
     
     "loginForgotPasswordInstructions":"Skriv din email her, så hjælper vi dig videre.",
     
@@ -94,17 +112,33 @@
     
     
     
-    "scanStep1Instructions":"Scan stregkoden på din is",
+    "profileFriendsGallery":"Venners galleri",
     
-    "scanStep1Details":"Hold stregkoden op foran kameraet på din telefon. Du bliver automatisk sendt videre, når koden er scannet.",
+	"profileItemDetailsConfirmPlaceText":"Må kun blive indløst af medarbejdere ansat hos et deltagende salgssted.",
+
+    "profileItemDetailsConfirmPlaceTitle":"Du er i gang med at indløse en præmie hos",
     
-    "scanStep2Instructions":"Du har scannet en",
+    "profileItemDetailsConfirmPlaceWarning":"Følges dette ikke går præmien tabt.",
     
-    "scanStep3Instructions":"Tag et billede af at du spiser isen",
+    "profileItemDetailsPickPlace":"Hvor skal præmien indløses?",
     
-    "scanStep3Confirm":"Godkend billedet, eller tag et nyt",
+    "profilePrices":"Præmier",
+
+    "profileItemDetailsShowPlaces":"Vis steder",
+
+    "profileYourGallery":"Dit galleri",
+    
+    
+
+    "scanCameraInstructionsText":"Vær med til at sprede glæden ved en is. Tag et billede af dig selv og din is. Blah blah blah.",
+    
+    "scanCameraInstructionsTitle":"Vis din happiness i et enkelt billede",
     
     "scanCompletedCongratulations":"Tillykke!",
+    
+    "scanCompletedHeartbeatsDescription":"Heartbeats kan bruges i shoppen til at købe præmier for.",
+    
+    "scanCompletedSendHeartbeats":"Send heartbeats",
     
     "scanCompletedYouHaveWonPart1":"Du har vundet 20 heartbeats",
     
@@ -112,10 +146,34 @@
     
     "scanCompletedYouHaveWonShareHappyDescription":"Share Happy giver dig selv 10 heartbeats og 3x10 heartbeats som du kan give til dine venner.",
     
-    "scanCompletedHeartbeatsDescription":"Heartbeats kan bruges i shoppen til at købe præmier for.",
+    "scanSharePermissionChangeInstructions":"Denne indstilling kan altid ændres under Profil",
     
-    "scanCompletedSendHeartbeats":"Send heartbeats",
+    "scanSharePermissionNo":"Nej, helst ikke",
     
+    "scanSharePermissionText":"Vi vil utrolig gerne dele din happiness med resten af verden. \n\nVed at trykke \"Ja\" giver du tilladelse til at dine billeder bliver delt her i appen.",
+    
+    "scanSharePermissionTitle":"Må vi dele din happiness?",
+    
+    "scanSharePermissionYes":"Ja, selvfølgelig",
+    
+    "scanStep1Details":"Hold stregkoden op foran kameraet på din telefon. Du bliver automatisk sendt videre, når koden er scannet.",
+    
+    "scanStep1Instructions":"Scan stregkoden på din is",
+    
+    "scanStep2Instructions":"Du har scannet en",
+    
+    "scanStep3Confirm":"Godkend billedet, eller tag et nyt",
+    
+    "scanStep3Instructions":"Tag et billede af at du spiser isen",
+    
+    
+    
+    "settingsAllowPush":"Tillad push-notifikationer",
+    
+    "settingsSharePicturesWithAll":"Del mine billeder med alle",
+    
+    "settingsTitle":"Indstillinger",
+        
     
     
     "shareTypeNameOrEmail":"Skriv navn eller email",
