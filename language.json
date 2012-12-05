@@ -81,6 +81,12 @@
 	"loginCreateAccount":"Opret ny bruger",
 	
 	"loginCreateAccountButton":"Opret",
+    
+    "loginCreateAccountEmailNotFilledOut":"Du har ikke skrevet din email adresse",
+    
+    "loginCreateAccountEmailNotValid":"Email adressen du har skrevet er ikke en gyldig email adresse",
+
+    "loginCreateAccountPasswordNotFilledOut":"Du har ikke skrevet et password",
 	
 	"loginErrorEmailPasswordNotMatchingText":"Proin gravida nibh vel velit...",
 	
@@ -97,7 +103,7 @@
     "loginLoginWithFacebook":"Log ind med facebook",
     
     "loginOrEmailAndPassword":"Eller email og password",
-    
+ 
     
     
     "pageCampaigns":"Kampagner",
