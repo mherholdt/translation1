@@ -1,5 +1,4 @@
 
-
 {
 
     "utilCancel":"Annullér",
@@ -148,7 +147,9 @@
     
     "scanCompletedYouHaveWonPart1":"Du har vundet 20 heartbeats",
     
-    "scanCompletedYouHaveWonPart2":"and a ShareHappy",
+    "scanCompletedYouHaveWonPart2":"og en Share Happy",
+    
+    "scanCompletedYouHaveWinPart3":"og en voucher", 
     
     "scanCompletedYouHaveWonShareHappyDescription":"Share Happy giver dig selv 10 heartbeats og 3x10 heartbeats som du kan give til dine venner.",
     
