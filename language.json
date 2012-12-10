@@ -194,5 +194,8 @@
     
     "AlertTest":"Test!",
     
-    "ServerChangeTest":"It works!"
+    "ServerChangeTest":"It works!",
+    
+    
+    "shopDetailBuyProduct" : "Køb produkt"
 }
