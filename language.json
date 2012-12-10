@@ -144,6 +144,8 @@
 
     "profileYourGallery":"Dit galleri",
     
+    "profileFriendsGalleryNoImages":"Det er pt. ingen billeder",
+    
     
 
     "scanCameraInstructionsText":"Vær med til at sprede glæden ved en is. Tag et billede af dig selv og din is. Blah blah blah.",
@@ -152,9 +154,15 @@
     
     "scanCompletedCongratulations":"Tillykke!",
     
+    "scanCompletedGoToShop":"Gå til shoppen",
+    
+    "scanCompletedGoToProfile":"Gå til din profil",
+    
     "scanCompletedHeartbeatsDescription":"Heartbeats kan bruges i shoppen til at købe præmier for.",
     
     "scanCompletedSendHeartbeats":"Send heartbeats",
+    
+    "scanCompletedSendHeartbeatsSkip":"Spring over",
     
     "scanCompletedYouHaveWonPart1":"Du har vundet 20 heartbeats",
     
