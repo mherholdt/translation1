@@ -213,5 +213,9 @@
     "ServerChangeTest":"It works!",
     
     
-    "shopDetailBuyProduct" : "Køb produkt"
+    "shopDetailBuyProduct" : "Køb produkt",
+    "shopBuyNotEnoughPoint" : "Du har desværre ikke nok heartbeats, til at købe dette produkt",
+    "shopBuyButtonNo" : "Nej, ikke endnu",
+    "shopBuyButtonYes" : "Ja, selvfølgelig",
+    "shopBuyAreYouSure" : "Er du sikker på at du vil købe",
 }
