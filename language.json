@@ -135,6 +135,11 @@
     "profilePrices":"Præmier",
 
     "profileItemDetailsShowPlaces":"Vis steder",
+    
+    "profileItemDetailsChoosePlace":"Vælg indløsningssted",
+    
+    "profileItemDetailsAlreadyRedeemed":"Denne præmie er allerede indløst",
+    
 
     "profileYourGallery":"Dit galleri",
     
@@ -197,6 +202,8 @@
     "AlertConnectionErrorTitle":"Connection error",
     
     "AlertConnectionErrorMessage":"Please check your internet connection",
+    
+    "AlertUnknownError":"En ukendt fejl er opstået. Prøv igen senere.",
     
     "AlertTest":"Test!",
     
