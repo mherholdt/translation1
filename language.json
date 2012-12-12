@@ -175,6 +175,10 @@
     
     "scanCompletedYouHaveWonShareHappyDescription":"Share Happy giver dig selv 10 heartbeats og 3x10 heartbeats som du kan give til dine venner.",
     
+    "scanCompletedYouHaveWonShareHappyNoneChosenTitle":"Du har ikke valgt 3 modtagere",
+    
+    "scanCompletedYouHaveWonShareHappyNoneChosenText":"Er du sikker på at du ikke har en ven, der har brug for din Share Happy?",
+    
     "scanSharePermissionChangeInstructions":"Denne indstilling kan altid ændres under Profil",
     
     "scanSharePermissionNo":"Nej, helst ikke",
