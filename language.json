@@ -189,7 +189,11 @@
     
     "scanSharePermissionYes":"Ja, selvfølgelig",
     
-    "scanStep1Details":"Hold stregkoden op foran kameraet på din telefon. Du bliver automatisk sendt videre, når koden er scannet.",
+    "scanStep1Details":"DEPRECATED string! Use scanStep1DetailsLine1 and scanStep1DetailsLine2 instead.",
+    
+    "scanStep1DetailsLine1":"Hold stregkoden op foran kameraet på din telefon.",
+    
+	"scanStep1DetailsLine2":"Du bliver automatisk sendt videre, når koden er scannet.",
     
     "scanStep1Instructions":"Scan stregkoden på din is",
     
