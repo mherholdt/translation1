@@ -12,6 +12,10 @@
     
     "utilGoToFrontpage":"Gå til Forsiden",
     
+    "utilHeartbeat":"heartbeat",
+    
+    "utilHeartbeats":"heartbeats",
+    
     "utilInsertText":"Insert your text here",
     
     "utilLogIn":"Log ind",
@@ -167,7 +171,7 @@
     
     "scanCompletedSendHeartbeatsSkip":"Spring over",
     
-    "scanCompletedYouHaveWonPart1":"Du har vundet 20 heartbeats",
+    "scanCompletedYouHaveWonPart1":"Du har vundet",
     
     "scanCompletedYouHaveWonPart2":"og en Share Happy",
     
