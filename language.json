@@ -243,6 +243,10 @@
     
     "voucherAlreadyClaimedAlertText":"Du har allerede claimet denne voucher. Vouchers kan kun claimes 1 gang.",
     
+    "voucherExpiredAlertTitle":"Præmie er udløbet",
+    
+    "voucherExpiredAlertText":"Den voucher du prøver at claime er desværre udløbet.",
+    
     "voucherClaimedAlertTitle":"Præmie indløst",
     
     "voucherClaimedAlertText":"Tillykke!",
