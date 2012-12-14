@@ -115,6 +115,13 @@
     "loginOrEmailAndPassword":"Eller email og password",
  
     
+    
+    "loginPushMapHeader":"Hvor vil du modtage push-beskeder fra?",
+    
+    "loginPushMapSubHeader":"Modtag tilbud og information on kampagner",
+    
+    
+    
     "welcomeHeartbeatsTitle":"Dine heartbeats",
     
     
@@ -215,6 +222,22 @@
     
     "scanStep3RetakeButton":"Tag om",
     
+    
+    "voucherShowClaimPlaces":"Vis indløsningssteder",
+    
+    "voucherAlreadyClaimed":"Denne præmie er allerede indløst",
+    
+    "voucherClaimAlertTitle":"Du er i gang med at indløse en præmie hos",
+    
+    "voucherClaimAlertText":"Må kun blive indløst af en medarbejdere ansat hos et deltagende salgssted.Følges dette ikke går præmien tabt.",
+    
+    "voucherAlreadyClaimedAlertTitle":"Præmie er allerede indløst",
+    
+    "voucherAlreadyClaimedAlertText":"Du har allerede claimet denne voucher. Vouchers kan kun claimes 1 gang.",
+    
+    "voucherExpiredAlertTitle":"Præmie udløbet",
+    
+    "voucherExpiredAlertText":"Den voucher du prøver at claime er desværre udløbet.",
     
     
     "settingsAllowPush":"Tillad push-notifikationer",
