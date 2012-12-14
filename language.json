@@ -1,5 +1,4 @@
 {
-
     "utilCancel":"Annuller",
     
     "utilChoose":"Vælg",
@@ -155,6 +154,11 @@
     
     "profileItemDetailsAlreadyRedeemed":"Denne præmie er allerede indløst",
     
+    "profileGalleryYourGallery":"Dit galleri",
+
+    "profileGalleryPrizes":"Præmier & køb",
+    
+    
 
     "profileYourGallery":"Dit galleri",
     
@@ -222,6 +226,10 @@
     
     "scanStep3RetakeButton":"Tag om",
     
+    "scanErrorBarcodeNotFoundTitle":"Stregkode ikke fundet",
+    
+    "scanErrorBarcodeNotFoundText":"Den sreg kode du skannede blev ikke fundet",
+    
     
     "voucherShowClaimPlaces":"Vis indløsningssteder",
     
@@ -235,20 +243,40 @@
     
     "voucherAlreadyClaimedAlertText":"Du har allerede claimet denne voucher. Vouchers kan kun claimes 1 gang.",
     
-    "voucherExpiredAlertTitle":"Præmie udløbet",
+    "voucherClaimedAlertTitle":"Præmie indløst",
     
-    "voucherExpiredAlertText":"Den voucher du prøver at claime er desværre udløbet.",
+    "voucherClaimedAlertText":"Tillykke!",
     
     
     "settingsAllowPush":"Tillad push-notifikationer",
     
     "settingsSharePicturesWithAll":"Del mine billeder med alle",
     
+    "settingsPushMessages":"Push beskeder",
+    
     "settingsTitle":"Indstillinger",
     
-    "settingsChangePassword":"Rediger password", 
-    
     "settingsLogoutConfirm":"Er du sikker på at du vil logge ud?", 
+    
+    "settingsChangePassword":"Rediger password",
+    
+    "settingsCurrentPassword":"Nuværende password", 
+    
+    "settingsNewPassword":"Nyt password",
+    
+    "settingsRepeatPassword":"Gentag nyt password",
+    
+    "settingsSavePassword":"Gem nyt password",
+    
+    "settingsEnterPassword":"Indtast venligst dit password",
+    
+    "settingsAlertPasswordNotMatchingTitle":"Passer ikke",
+    
+    "settingsAlertPasswordNotMatchingText":"Dine to nye passwords passer ikke. Skriv det samme.",
+    
+    
+    
+    
         
     
     
@@ -275,5 +303,7 @@
     "shopBuyNotEnoughPoint" : "Du har desværre ikke nok heartbeats, til at købe dette produkt",
     "shopBuyButtonNo" : "Nej, ikke endnu",
     "shopBuyButtonYes" : "Ja, selvfølgelig",
-    "shopBuyAreYouSure" : "Er du sikker på at du vil købe"
+    "shopBuyAreYouSure" : "Er du sikker på at du vil købe",
+    "shopAlertProductBoughtTitle" : "Tillykke!",
+    "shopAlertProductBoughtText" : "Du har lige købt et produkt!"
 }
