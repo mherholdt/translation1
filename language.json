@@ -37,7 +37,9 @@
 	
 	"utilPrizes":"Præmier",
 	
-	"utilPrizeReceived":"Du har modtaget en præmie!",
+	"utilPrizeReceivedTitle":"Du har modtaget en præmie!",
+	
+	"utilPrizeReceivedText":"Gå til din Profil for at læse mere.",
 
     "utilQuit":"Er du sikker på du vil afslutte?",
     
