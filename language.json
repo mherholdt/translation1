@@ -235,6 +235,7 @@
     
     "scanErrorBarcodeNotFoundText":"Den sreg kode du skannede blev ikke fundet",
     
+    "voucherAlreadyClaimedThumbText":"Brugt",
     
     "voucherShowClaimPlaces":"Vis indløsningssteder",
     
