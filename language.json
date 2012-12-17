@@ -187,6 +187,10 @@
     
     "scanCompletedSendHeartbeats":"Send heartbeats",
     
+    "scanCompletedShareOnWallTitle":"Vil du slå dette op på din væg?",
+    
+    "scanCompletedShareOnWallText":"Aenean solicitudin, lorem quis bibendum...",
+    
     "scanCompletedSkip":"Spring over",
     
     "scanCompletedSendHeartbeatsSkip":"Spring over",
