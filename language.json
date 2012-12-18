@@ -117,6 +117,7 @@
     
     "loginOrEmailAndPassword":"Eller email og password",
  
+ 
     
     
     "loginPushMapHeader":"Hvor vil du modtage push-beskeder fra?",
@@ -139,7 +140,8 @@
     
     "pageShop":"Shop",
     
-    
+    "profileFriendsGalleryAlertNoFBHeader":"Login med Facebook",
+    "profileFriendsGalleryAlertNoFBText":"For at kunne se dine venners billeder skal du logge ud og logge ind med din facebook account. Tak.",
     
     "profileFriendsGallery":"Venners galleri",
     
