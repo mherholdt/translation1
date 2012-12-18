@@ -320,6 +320,10 @@
     
     "AlertUnknownError":"En ukendt fejl er opstået. Prøv igen senere.",
     
+    "alertGPSErrorTitle":"Din GPS er ikke slået til",
+    
+    "alertGPSErrorText":"Gå til indstillinger?",
+    
     "AlertTest":"Test!",
     
     "ServerChangeTest":"It works!",
