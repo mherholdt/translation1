@@ -257,6 +257,10 @@
     
     "vouchersExtraPointsSubText":"points på scanned is!",
     
+    "voucherShopsClaimNotCloseEnoughTitle":"Du er ikke tæt nok på shoppen",
+    
+    "voucherShopsClaimNotCloseEnoughText":"Du skal minimum være 500 meter fra shoppen for at kunne indløse din voucher",
+    
     "voucherShowClaimPlaces":"Vis indløsningssteder",
     
     "voucherAlreadyClaimed":"Denne præmie er allerede indløst",
