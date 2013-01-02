@@ -327,10 +327,6 @@
     
     "shopBuyProduct":"Køb produkt",
     
-    "alertNoFacebookLoginTitle" : "Manglende Facebook login",
-    
-    "alertNoFacebookLoginText" : "Du skal være logget ind med Facebook for at kunne se dine venners galleri", 
-    
     "AlertConnectionErrorTitle":"Ingen forbindelse til internettet",
     
     "AlertConnectionErrorMessage":"Please check your internet connection",
