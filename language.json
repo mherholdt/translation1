@@ -93,6 +93,10 @@
 	"icecreamsSearchHint":"Skriv en is",
 	
 	"icecreamsAllergenes":"Allergener",
+	
+	"loginForgotPasswordFalseTitle" : "Email findes ikke.",
+	
+	"loginForgotPasswordFalseText" : "Den indtastede email findes ikke, prøv igen eller opret en ny bruger.",
 
 	"loginCreateAccountDialogText" : "Der findes ingen bruger som passer til indtastningen. Opret nu?",
 
