@@ -94,6 +94,7 @@
 	
 	"icecreamsAllergenes":"Allergener",
 
+	"loginCreateAccountDialogText" : "Der findes ingen bruger som passer til indtastningen. Opret nu?",
 
 	"loginCreateAccount":"Opret ny bruger",
 	
