@@ -321,11 +321,13 @@
     
     "settingsAlertPasswordNotMatchingText":"Dine to nye passwords passer ikke. Skriv det samme.",
     
+    "settingsChangePasswordChangedTitle":"Password ændret",
     
+    "settingsChangePasswordChangedText":"Dit password er nu blevet ændret.",
     
+    "settingsChangePasswordFailedChangeTitle":"Password ikke ændret",
     
-        
-    
+    "settingsChangePasswordFailedChangeText":"Dit password blev desværre ikke ændret.",
     
     "shareTypeNameOrEmail":"Skriv navn eller email",
     
