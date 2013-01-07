@@ -357,5 +357,7 @@
     "shopBuyButtonYes" : "Ja, selvfølgelig",
     "shopBuyAreYouSure" : "Er du sikker på at du vil købe",
     "shopAlertProductBoughtTitle" : "Tillykke!",
-    "shopAlertProductBoughtText" : "Du har lige købt et produkt!"
+    "shopAlertProductBoughtText" : "Du har lige købt et produkt!",
+    "shopBuyErrorProductAlreadyBoughtText" : "Du ejer allerede produktet du forsøger at købe. Du kan derfor ikke købe det igen." ,
+    "shopBuyErrorProductAlreadyBoughtTitle" : "Produktet kan ikke købes"
 }
