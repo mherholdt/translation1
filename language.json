@@ -354,6 +354,8 @@
     
     "AlertUnknownError":"En ukendt fejl er opstået. Prøv igen senere.",
     
+    "AlertStorageError":"Kunne ikke gemme billede. Sørg for at SD-kortet ikke er tilsluttet i USB-tilstand.",
+    
     "alertGPSErrorTitle":"Din GPS er ikke slået til",
     
     "alertGPSErrorText":"Gå til indstillinger?",
