@@ -112,5 +112,6 @@
   "galleryPageCreateGalleryText" : "Opret galleri",
   "loginPageUsernameText" : "Brugernavn",
   "loginPagePasswordText" : "Adgangskode",
-  "measureToolPageInsertCustomerInformationText" : "Indtast kundeoplysninger"
+  "measureToolPageInsertCustomerInformationText" : "Indtast kundeoplysninger",
+  "measureToolPageInvoiceRecipientText" : "Fakturamodtager"
 }
