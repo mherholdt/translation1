@@ -1,377 +1,110 @@
 {
-    "utilCancel":"Annuller",
-    
-    "utilChoose":"Vælg",
-	
-    "utilDelete":"Slet",
-    
-    "utilEmail":"Email",
-    
-    "utilEnd":"Slut",
-    
-    "utilExpired":"Udløbet",
-    
-    "utilGoToFrontpage":"Gå til Forsiden",
-    
-    "utilHeartbeat":"heartbeat",
-    
-    "utilHeartbeats":"heartbeats",
-    
-    "utilInsertText":"Insert your text here",
-    
-    "utilLogIn":"Log ind",
-    
-    "utilLogInFacebookButton":"Log In",
-    
-    "utilLogOut":"Log ud",
-    
-    "utilNew":"Ny",
-    
-    "utilLoading":"Loading..",
-    
-    "utilNo":"Nej",
-    
-    "utilOff":"OFF",
-    
-    "utilOk":"Okay",
-    
-    "utilOn":"ON",
-
-	"utilPassword":"Password",
-	
-	"utilPrizes":"Præmier",
-	
-	"utilPrizeReceivedTitle":"Du har modtaget en præmie!",
-	
-	"utilPrizeReceivedText":"Gå til din Profil for at læse mere.",
-
-    "utilQuit":"Er du sikker på du vil afslutte?",
-    
-    "utilRedeemed":"Indløst",
-    
-    "utilRedeem":"Indløs",
-    
-    "utilSearch":"Søg",
-    
-    "utilSelect":"Vælg",
-    
-    "utilSend":"Send",
-        
-    "utilSettings":"Indstillinger",
-    
-    "utilShare":"Del",
-    
-    "utilStart":"Start",
-    
-    "utilTryAgain":"Prøv igen",
-        
-    "utilUpdate":"Opdatering tilgængelig. Download nu?",
-    
-    "utilUpdateAppStoreText":"App Store",
-    
-    "utilUpdateForce":"Der findes en nødvendig opdatering. Tryk for at downloade.",
-    
-    "utilYes":"Ja",
-    
-    "utilError":"Fejl",
-        
-
-
-	"aboutAppText":"Proin gravida nibh vel velit...",
-	
-	"aboutAppTitle":"Om appen",
-	
-	"aboutContestConditionsText":"Proin gravida nibh vel velit...",
-	
-	"aboutContestConditionsTitle":"Konkurrencebetingelser",
-	
-
-
-	"frontpageYourHeartbeats":"Dine heartbeats",
-
-
-	"icecreamsFindShop":"Find butik",
-
-	"icecreamsTitle":"Istyper",
-
-	"icecreamsSearchHint":"Skriv en is",
-	
-	"icecreamsAllergenes":"Allergener",
-	
-	"loginForgotPasswordFalseTitle" : "Email findes ikke.",
-	
-	"loginForgotPasswordFalseText" : "Den indtastede email findes ikke, prøv igen eller opret en ny bruger.",
-
-	"loginCreateAccountDialogText" : "Der findes ingen bruger som passer til indtastningen. Opret nu?",
-
-	"loginCreateAccount":"Opret ny bruger",
-	
-	"loginCreateAccountButton":"Opret",
-    
-    "loginCreateAccountEmailNotFilledOut":"Du har ikke skrevet din email adresse",
-    
-    "loginCreateAccountEmailNotValid":"Email adressen du har skrevet er ikke en gyldig email adresse",
-
-    "loginCreateAccountPasswordNotFilledOut":"Du har ikke skrevet et password",
-	
-	"loginErrorEmailPasswordNotMatchingText":"Proin gravida nibh vel velit...",
-	
-	"loginErrorEmailPasswordNotMatchingTitle":"Den indtastede email og password matchede ikke hinanden.",
-	
-    "loginForgotPassword":"Glemt password?",
-    
-    "loginForgotPasswordEmailSentText":"Proin gravida nibh vel velit...",
-    
-    "loginForgotPasswordEmailSentTitle":"Email er afsendt",
-    
-    "loginForgotPasswordInstructions":"Skriv din email her, så hjælper vi dig videre.",
-    
-    "loginLoginWithFacebook":"Log ind med facebook",
-    
-    "loginOrEmailAndPassword":"Eller email og password",
- 
- 
-    
-    
-    "loginPushMapHeader":"Hvor vil du modtage push-beskeder fra?",
-    
-    "loginPushMapSubHeader":"Modtag tilbud og information on kampagner",
-    
-    "loginPushMapAPIRegisterError":"Fejl ved registrering af områder for push beskeder",
-
-    
-    "welcomeHeartbeatsTitle":"Dine heartbeats",
-    
-    
-    "pageCampaigns":"Kampagner",
-    
-    "pageFrontpage":"Forsiden",
-    
-    "pageProfile":"Profil",
-    
-    "pageScanIcecream":"Scan is",
-    
-    "pageShop":"Shop",
-    
-    "eventDetailProductPageHeader":"Præmie kan vindes i kampagnen ",
-    
-    "profileFriendsGalleryAlertNoFBHeader":"Login med Facebook",
-    "profileFriendsGalleryAlertNoFBText":"For at kunne se dine venners billeder skal du logge ud og logge ind med din facebook account. Tak.",
-    
-    "profileFriendsGallery":"Venners galleri",
-    
-    "profileFriendsGalleryNoPictures":"Der er pt. ingen billeder",
-    
-	"profileItemDetailsConfirmPlaceText":"Må kun blive indløst af medarbejdere ansat hos et deltagende salgssted.",
-
-    "profileItemDetailsConfirmPlaceTitle":"Du er i gang med at indløse en præmie hos",
-    
-    "profileItemDetailsConfirmPlaceWarning":"Følges dette ikke går præmien tabt.",
-    
-    "profileItemDetailsPickPlace":"Hvor skal præmien indløses?",
-    
-    "profilePrices":"Præmier",
-
-    "profileItemDetailsShowPlaces":"Vis steder",
-    
-    "profileItemDetailsChoosePlace":"Vælg indløsningssted",
-    
-    "profileItemDetailsAlreadyRedeemed":"Denne præmie er allerede indløst",
-    
-    "profileGalleryYourGallery":"Dit galleri",
-
-    "profileGalleryPrizes":"Præmier & køb",
-    
-    
-
-    "profileYourGallery":"Dit galleri",
-    
-    "profileFriendsGalleryNoImages":"Det er pt. ingen billeder",
-    
-    
-    "scanInfoOverlayHeader": "Info",
-    "scanInfoOverlayText": "Lorem ipsum dollar sinar.",
-
-    "scanCameraInstructionsText":"Vær med til at sprede glæden ved en is. Tag et billede af dig selv og din is. Blah blah blah.",
-    
-    "scanCameraInstructionsTitle":"Vis din happiness i et enkelt billede",
-    
-    "scanCompletedCongratulations":"Tillykke!",
-    
-    "scanCompletedGoToShop":"Gå til shoppen",
-    
-    "scanCompletedGoToProfile":"Gå til din profil",
-    
-    "scanCompletedHeartbeatsDescription":"Heartbeats kan bruges i shoppen til at købe præmier for.",
-    
-    "scanCompletedVoucherDescription":"Vouchers kan indløses hos Maecenas sed diam eget risus...",
-    
-    "scanCompletedSendHeartbeats":"Send heartbeats",
-    
-    "scanCompletedShareOnWallTitle":"Vil du slå dette op på din væg?",
-    
-    "scanCompletedShareOnWallText":"Aenean solicitudin, lorem quis bibendum...",
-    
-    "scanCompletedPostToFacebookTitle":"Slå op på Facebook",
-    
-    "scanCompletedPostToFacebookHint":"Skriv her",
-    
-    "scanCompletedSkip":"Spring over",
-    
-    "scanCompletedSendHeartbeatsSkip":"Spring over",
-    
-    "scanCompletedYouHaveWonPart1":"Du har vundet",
-    
-    "scanCompletedYouHaveWonPart2":"og en Share Happy",
-    
-    "scanCompletedYouHaveWonPart3":"og en voucher", 
-    
-    "scanCompletedYouHaveWonExtraHeartbeats":"ekstra heartbeats", 
-    
-    "scanCompletedYouHaveWonShareHappyDescription":"Share Happy giver dig selv %%POINTS%% heartbeats og 3x%%POINTS%% heartbeats som du kan give til dine venner.",
-    
-    "scanCompletedYouHaveWonVoucherDescription":"Maecenas sed diam eget risus ....",
-    
-    "scanCompletedYouHaveWonShareHappyNoneChosenTitle":"Du har ikke valgt 3 modtagere",
-    
-    "scanCompletedYouHaveWonShareHappyNoneChosenText":"Er du sikker på at du ikke har en ven, der har brug for din Share Happy?",
-    
-    "scanSharePermissionChangeInstructions":"Denne indstilling kan altid ændres under Profil",
-    
-    "scanSharePermissionNo":"Nej, helst ikke",
-    
-    "scanSharePermissionText":"Vi vil utrolig gerne dele din happiness med resten af verden. \n\nVed at trykke \"Ja\" giver du tilladelse til at dine billeder bliver delt her i appen.",
-    
-    "scanSharePermissionTitle":"Må vi dele din happiness?",
-    
-    "scanSharePermissionYes":"Ja, selvfølgelig",
-    
-    "scanStep1Details":"DEPRECATED string! Use scanStep1DetailsLine1 and scanStep1DetailsLine2 instead.",
-    
-    "scanStep1DetailsLine1":"Hold stregkoden op foran kameraet på din telefon.",
-    
-	"scanStep1DetailsLine2":"Du bliver automatisk sendt videre, når koden er scannet.",
-    
-    "scanStep1Instructions":"Scan stregkoden på din is",
-    
-    "scanStep2Instructions":"Du har scannet en",
-    
-    "scanStep3Confirm":"Godkend billedet, eller tag et nyt",
-    
-    "scanStep3Instructions":"Tag et billede af at du spiser isen",
-    
-    "scanStep3RetakeButton":"Tag om",
-    
-    "scanErrorBarcodeNotFoundTitle":"Stregkode ikke fundet",
-    
-    "scanErrorBarcodeNotFoundText":"Den sreg kode du skannede blev ikke fundet",
-    
-    "voucherAlreadyClaimedThumbText":"Brugt",
-    
-    "vouchersExtraPointsSubText":"points på scanned is!",
-    
-    "voucherShopsClaimNotCloseEnoughTitle":"Du er ikke tæt nok på shoppen",
-    
-    "voucherShopsClaimNotCloseEnoughText":"Du skal minimum være 500 meter fra shoppen for at kunne indløse din voucher",
-    
-    "voucherShowClaimPlaces":"Vis indløsningssteder",
-    
-    "voucherIsEmailProduct":"Der er blevet sendt en email",
-    
-    "voucherAlreadyClaimed":"Denne præmie er allerede indløst",
-    
-    "voucherClaimAlertTitle":"Du er i gang med at indløse en præmie hos",
-    
-    "voucherClaimAlertText":"Må kun blive indløst af en medarbejdere ansat hos et deltagende salgssted.Følges dette ikke går præmien tabt.",
-    
-    "voucherAlreadyClaimedAlertTitle":"Præmie er allerede indløst",
-    
-    "voucherAlreadyClaimedAlertText":"Du har allerede claimet denne voucher. Vouchers kan kun claimes 1 gang.",
-    
-    "voucherAlertFailClaimingTitle":"Kunne ikke claime din voucher",
-    
-    "voucherAlertFailClaimingNotAVoucerText":"Den voucher du prøver at claime er ikke en voucher",
-    
-    "voucherAlertFailClaimingNotCorrectShopText":"Den voucher du prøver at claime kan ikke claimes i denne shop",
-    
-    "voucherAlertFailClaimingIncorrectUserText":"Denne voucher høre ikke til dig",
-    
-    "voucherExpiredAlertTitle":"Præmie er udløbet",
-    
-    "voucherExpiredAlertText":"Den voucher du prøver at claime er desværre udløbet.",
-    
-    "voucherClaimedAlertTitle":"Præmie indløst",
-    
-    "voucherClaimedAlertText":"Tillykke!",
-    
-    
-    "settingsAllowPush":"Tillad push-notifikationer",
-    
-    "settingsPushChooseAreasTitle":"Hvilke områder vil du modtage info fra?",
-    
-    "settingsSharePicturesWithAll":"Del mine billeder med alle",
-    
-    "settingsPushMessages":"Push beskeder",
-    
-    "settingsTitle":"Indstillinger",
-    
-    "settingsLogoutConfirm":"Er du sikker på at du vil logge ud?", 
-    
-    "settingsChangePassword":"Rediger password",
-    
-    "settingsCurrentPassword":"Nuværende password", 
-    
-    "settingsNewPassword":"Nyt password",
-    
-    "settingsRepeatPassword":"Gentag nyt password",
-    
-    "settingsSavePassword":"Gem nyt password",
-    
-    "settingsEnterPassword":"Indtast venligst dit password",
-    
-    "settingsAlertPasswordNotMatchingTitle":"Passer ikke",
-    
-    "settingsAlertPasswordNotMatchingText":"Dine to nye passwords passer ikke. Skriv det samme.",
-    
-    "settingsChangePasswordChangedTitle":"Password ændret",
-    
-    "settingsChangePasswordChangedText":"Dit password er nu blevet ændret.",
-    
-    "settingsChangePasswordFailedChangeTitle":"Password ikke ændret",
-    
-    "settingsChangePasswordFailedChangeText":"Dit password blev desværre ikke ændret.",
-    
-    "shareTypeNameOrEmail":"Skriv navn eller email",
-    
-    
-    "shopTitle":"Shoppen",
-    
-    "shopBuyProduct":"Køb produkt",
-    
-    "AlertConnectionErrorTitle":"Ingen forbindelse til internettet",
-    
-    "AlertConnectionErrorMessage":"Please check your internet connection",
-    
-    "AlertUnknownError":"En ukendt fejl er opstået. Prøv igen senere.",
-    
-    "AlertStorageError":"Kunne ikke gemme billede. Sørg for at SD-kortet ikke er tilsluttet i USB-tilstand.",
-    
-    "alertGPSErrorTitle":"Din GPS er ikke slået til",
-    
-    "alertGPSErrorText":"Gå til indstillinger?",
-    
-    "AlertTest":"Test!",
-    
-    "ServerChangeTest":"It works!",
-    
-    
-    "shopDetailBuyProduct" : "Køb produkt",
-    "shopBuyNotEnoughPoint" : "Du har desværre ikke nok heartbeats, til at købe dette produkt",
-    "shopBuyButtonNo" : "Nej, ikke endnu",
-    "shopBuyButtonYes" : "Ja, selvfølgelig",
-    "shopBuyAreYouSure" : "Er du sikker på at du vil købe",
-    "shopAlertProductBoughtTitle" : "Tillykke!",
-    "shopAlertProductBoughtText" : "Du har lige købt et produkt!",
-    "shopBuyErrorProductAlreadyBoughtText" : "Du ejer allerede produktet du forsøger at købe. Du kan derfor ikke købe det igen." ,
-    "shopBuyErrorProductAlreadyBoughtTitle" : "Produktet kan ikke købes"
+  "procurementWindowPageChooseWindowTypeText" : "Vælg solafskærmende eller energirude",
+  "settingsDropdownChangeDesignText" : "Skift dit design",
+  "insertMeasurementPageHeightText" : "Højde",
+  "utilGallery" : "Galleri",
+  "loginPageForgotPassword" : "Glemt adgangskode",
+  "procurementPricePageChangeAddonsText" : "Redigere i tilvalg",
+  "measureToolPageRequisitionNo" : "Rekv. Nr.",
+  "utilPrice" : "Pris",
+  "chooseFigurePageGlassDimensionsText" : "Glasmål",
+  "insertMeasurementPageDepthText" : "Dybde",
+  "utilNext" : "Næste",
+  "chooseFigurePageShapeText" : "Facon",
+  "insertMeasurementPageMMText" : "mm",
+  "menuPageMessages" : "Beskeder fra Scan Glas",
+  "utilDate" : "Dato",
+  "procurementWindowPageOrnamentText" : "Ornament",
+  "procurementWindowPageManuelText" : "Manuel",
+  "utilChooseFigure" : "Valg af figur",
+  "utilCustomerNo" : "Kunde Nr.",
+  "utilName" : "Navn",
+  "utilBack" : "Tilbage",
+  "notesPagePlacementText" : "Placering",
+  "utilProcurement" : "Tilbudsgivning",
+  "galleryPageChooseGalleryText" : "Vælg galleri",
+  "insertMeasurementPageFrontText" : "Front",
+  "utilPlaceholderWriteText" : "Skriv tekst",
+  "insertMeasurementProfileText" : "Profil",
+  "utilOrderNo" : "Ordre Nr.",
+  "measureToolPageFullName" : "Fulde navn",
+  "utilGlazer" : "Glarmester",
+  "sideMenuViewTotalPriceText" : "Samlet pris inkl. moms",
+  "measureToolPageFindExistingCustomer" : "Find eksisterende kunde",
+  "loginPageHeader" : "Log ind",
+  "procurementPricePageCloseAddonsInfoText" : "Luk tilvalgsinfo",
+  "sideMenuViewSendToArchiveButtonText" : "Send til arkiv",
+  "chooseFigurePageMeasureInsideOutsideText" : "Opmåling indefra eller udefra",
+  "utilDone" : "Færdig",
+  "notesPageDirectionText" : "Retning",
+  "loginPageRememberPassword" : "Husk adgangskode",
+  "utilAddress" : "Adresse",
+  "notesPageTakeNotesText" : "Tag noter",
+  "measureToolPagePoliceNo" : "Police Nr.",
+  "procurementWindowPageChooseWindowFunctionText" : "Vælg rudens funktion",
+  "chooseFigurePageOutsideText" : "Udefra",
+  "galleryPageInsertNameText" : "Tilføj navn",
+  "utilAboutGlass" : "Viden om glas",
+  "chooseFigurePageFoldDimensionsText" : "Falsmål",
+  "utilOk" : "OK",
+  "utilPhoneShort" : "Tlf. Nr.",
+  "measureToolPageEANNo" : "EAN Nr.",
+  "menuPageEnergyCalc" : "Energiberegner",
+  "insertMeasurementPageSurfaceText" : "Fladen",
+  "utilLogin" : "Login",
+  "insertMeasurementTotalDepthText" : "Total dybde",
+  "notesPageHeaderText" : "Noter",
+  "utilEmail" : "E-mail",
+  "procurementWindowPageEnergyWindowText" : "Energirude",
+  "procurementWindowPageSmallCleaningText" : "Let rens",
+  "notesPageUploadNewPictureButtonText" : "Upload nyt billede",
+  "settingsDropdownYourNumbersText" : "Dine beløb",
+  "chooseFigurePageInsideText" : "Indefra",
+  "insertMeasurementPageSectionText" : "Tværsnit",
+  "chooseShapePageChooseShapeText" : "Vælg facon",
+  "measureToolPageDamageNo" : "Skade Nr.",
+  "sideMenuViewSendToCustomerButtonText" : "Send til kunde",
+  "settingsDropdownYourInformationText" : "Dine oplysninger",
+  "utilCity" : "By",
+  "sideMenuViewCurrencyText" : "DKK",
+  "sideMenuViewMenuText" : "Menu",
+  "measureToolPageCustomerSameAsPayer" : "Kunde er samme som fakturamodtager",
+  "redHeaderBannerLeftText" : "Glarmester [glazerName]",
+  "utilCreate" : "Opret",
+  "procuremntWindowPageSunBlockText" : "Solafskærmende",
+  "utilZip" : "Post Nr.",
+  "utilScanGlas" : "I samarbejde med Scan Glas",
+  "insertMeasurementPageRadiusText" : "Radius",
+  "utilPlaceholderSearchForOfferText" : "Søg efter tilbud",
+  "infoAboutGlassPageProductCatalog" : "Produktkatalog",
+  "procurementWindowPageSoundText" : "Lyd",
+  "chooseFigurePageLightDimensionsText" : "Lysmål",
+  "sideMenuViewPicturesAndNotesButtonText" : "Billeder & noter",
+  "galleryPageAddOfferText" : "Tilføj tilbud",
+  "procurementPricePageUVFilterText" : "UV Filter",
+  "sideMenuViewAddNewWindowButtonText" : "Tilføj ny rude",
+  "notesPagePicturesOfMeasurementText" : "Billeder af opmåling",
+  "infoAboutGlassPageGuides" : "Vejledninger",
+  "utilProjectFolder" : "Projekt mappe",
+  "sideMenuViewMeasurementText" : "Opmålinger",
+  "chooseFigurePageChooseMeasureGripText" : "Vælg målgreb",
+  "procurementPricePageDeleteOfferText" : "Slet tilbud",
+  "galleryPagePlaceholderInsertName" : "Insæt navn",
+  "galleryPageBottomMenuText" : "Swipe til venstre, for at se tidligere albums",
+  "infoAboutGlassPageVocabulary" : "Glas ordbog",
+  "menuPageMeasureTool" : "Opmålingsværktøj",
+  "procurementPricePageAddonsText" : "Tilvalg",
+  "procurementPricePageExtraFieldButtonText" : "Ekstra felt",
+  "insertMeasurementPageWidthText" : "Bredde",
+  "insertMeasurementGlassText" : "Glas",
+  "chooseFigurePageSquareText" : "Firkant",
+  "settingsDropdownLogoutText" : "Log ud",
+  "procurementPricePageAddToOrderText" : "Tilføj til bestilling",
+  "galleryPageUploadNewGalleryButtonText" : "Upload nyt galleri",
+  "sideMenuViewContactInfoText" : "Stamdata",
+  "utilContactPerson" : "Kontaktperson",
+  "procurementPricePageSoundProofText" : "Lydisolering",
+  "procurementWindowPageSafetyText" : "Sikkerhed",
+  "frontPageFindGlazer" : "Find glarmester",
+  "chooseFigurePageChooseGeometriText" : "Vælg geometri"
 }
