@@ -107,5 +107,6 @@
   "procurementPricePageSoundProofText" : "Lydisolering",
   "procurementWindowPageSafetyText" : "Sikkerhed",
   "frontPageFindGlazer" : "Find glarmester",
-  "chooseFigurePageChooseGeometriText" : "Vælg geometri"
+  "chooseFigurePageChooseGeometriText" : "Vælg geometri",
+  "galleryPageCreateGalleryText" : "Opret galleri"
 }
