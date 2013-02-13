@@ -111,5 +111,6 @@
   "chooseFigurePageChooseGeometriText" : "Vælg geometri",
   "galleryPageCreateGalleryText" : "Opret galleri",
   "loginPageUsernameText" : "Brugernavn",
-  "loginPagePasswordText" : "Adgangskode"
+  "loginPagePasswordText" : "Adgangskode",
+  "measureToolPageInsertCustomerInformationText" : "Indtast kundeoplysninger"
 }
