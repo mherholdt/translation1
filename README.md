@@ -1,4 +1,4 @@
-frisko-translations
+SaintGobain-translations
 ===================
 
 Translation strings
