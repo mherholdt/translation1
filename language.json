@@ -134,5 +134,6 @@
   "changeDesignPageChangeOfferHeader" : "SKIFT BREVHOVED PÅ DINE TILBUDSMAILS",
   "changeDesignPageChangeEnergyHeaderText" : "ÆNDRE TEKSTEN PÅ I DIN ENERGIBEREGNERMAIL",
   "changeDesignPageChangeOfferHeaderText" : "ÆNDRE TEKSTEN PÅ I DIN TILBUDSMAIL",
-  "changeDesignPageUploadNewLetterHeaderButtonText" : "Upload nyt brevhoved", 
+  "changeDesignPageUploadNewLetterHeaderButtonText" : "Upload nyt brevhoved",
+  "changeDesignPageChangeCompanyNameInMenuBarText" : "REDIGERE VIRKSOMHEDENS NAVN I MENUBAREN"
 }
