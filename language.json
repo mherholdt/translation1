@@ -1,4 +1,9 @@
 {
+  "utilClose" : "Luk",
+  "utilExclMoms" : "EXCL. MOMS.",
+  "utilProAnno" : "PR ÅR"
+  "utilFirstName" : "FORNAVN",
+  "utilLastName" : "EFTERNAVN",
   "utilFindGlazer" : "Find glarmester",
   "utilOrderNo" : "Ordre Nr.",
   "utilScanGlasPlain" : "Scan Glas",
@@ -139,5 +144,21 @@
   
   "yourInformationPageInsertInfoText" : "Indtast dine oplysninger",
   "yourInformationPageAddEmployeeButtonText" : "Medarbejder",
+   
+  "yourNumbersPageYourNumbersText" : "DINE BELØB",
+  "yourNumbersPageInsertNumberText" : "INDTAST BELØB",
+  "yourNumbersPageHourPayText" : "TIMELØN",
+  "yourNumbersPageBasisPercentText" : "BEREGNINGSGRUNDLAG, (% PÅ SCANGLAS PRISLISTE)",
+  "yourNumbersPageMarkUpText" : "MARK-UP",
+
+  "energyCalcPageWriteMessage" : "SKRIV DIN BESKED",
+  "energyCalcPageWriteMessagePlaceholder" : "Skriv din besked til glarmester her...",
+  "energyCalcPageWriteChosenFactors" : "VALGTE FAKTORER",
+  "energyCalcPageProductText" : "PRODUKT",
+  "energyCalcPageNumberOfSquareMetersText" : "ANTAL AF M2 GLAS",
+  "energyCalcPageEnergySourceText" : "ENERGIKILDE",
+  "energyCalcPagePaybackText" : "PAYBACK",
+  "energyCalcPageTotalSaving" : "SAMLET BESPARELSE",
+  "energyCalcPageWriteWriteZipPlaceholderText" : "Skriv postnummer her...",
   
 }
