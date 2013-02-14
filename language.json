@@ -142,8 +142,10 @@
   "changeDesignPageUploadNewLetterHeaderButtonText" : "Upload nyt brevhoved",
   "changeDesignPageChangeCompanyNameInMenuBarText" : "REDIGERE VIRKSOMHEDENS NAVN I MENUBAREN",
   
+  "yourInformationPageHeaderText" : "Dine oplysninger",
   "yourInformationPageInsertInfoText" : "Indtast dine oplysninger",
   "yourInformationPageAddEmployeeButtonText" : "Medarbejder",
+  "yourInformationPageInsertEmployeeInfoText" : "Indtast medarbejders oplysninger",
    
   "yourNumbersPageYourNumbersText" : "DINE BELØB",
   "yourNumbersPageInsertNumberText" : "INDTAST BELØB",
