@@ -58,8 +58,6 @@
   "settingsDropdownYourInformationText" : "Dine oplysninger",
   "settingsDropdownLogoutText" : "Log ud",
   
-  "insertMeasurementPageHeightText" : "Højde",
-  
   "loginPageForgotPassword" : "Glemt adgangskode",
   
   "measureToolPageRequisitionNo" : "Rekv. Nr.",
@@ -84,6 +82,8 @@
   "insertMeasurementPageWidthText" : "Bredde",
   "insertMeasurementGlassText" : "Glas",
   "insertMeasurementPageRadiusText" : "Radius",
+  "insertMeasurementPageHeightText" : "Højde",
+  "insertMeasurementPageSearchForCustomerText" : "Søg efter kunde...",
   
   "chooseFigurePageShapeText" : "Facon",
   "chooseFigurePageGlassDimensionsText" : "Glasmål",
