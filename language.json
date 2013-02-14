@@ -135,5 +135,9 @@
   "changeDesignPageChangeEnergyHeaderText" : "ÆNDRE TEKSTEN PÅ I DIN ENERGIBEREGNERMAIL",
   "changeDesignPageChangeOfferHeaderText" : "ÆNDRE TEKSTEN PÅ I DIN TILBUDSMAIL",
   "changeDesignPageUploadNewLetterHeaderButtonText" : "Upload nyt brevhoved",
-  "changeDesignPageChangeCompanyNameInMenuBarText" : "REDIGERE VIRKSOMHEDENS NAVN I MENUBAREN"
+  "changeDesignPageChangeCompanyNameInMenuBarText" : "REDIGERE VIRKSOMHEDENS NAVN I MENUBAREN",
+  
+  "yourInformationPageInsertInfoText" : "Indtast dine oplysninger",
+  "yourInformationPageAddEmployeeButtonText" : "Medarbejder",
+  
 }
