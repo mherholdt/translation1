@@ -59,8 +59,6 @@
   "procurementPricePageWriteHerePlaceholderText" : "Skriv her...",
   "procurementPricePageAmountPlaceholderText" : "Antal...",
   "procurementPricePageAddonInfoText" : "Tilvalgsinfo",
-  "procurementPricePageChoosePlacementText" : "Vælg placering",
-  "procurementPricePageChooseDirectionText" : "Vælg retning",
   
   "settingsDropdownChangeDesignText" : "Skift dit design",
   "settingsDropdownYourNumbersText" : "Dine beløb",
@@ -121,6 +119,8 @@
   "notesPageTakeNotesText" : "Tag noter",
   "notesPagePlacementText" : "Placering",
   "notesPagePicturesOfMeasurementText" : "Billeder af opmåling",
+  "notesPageChoosePlacementText" : "Vælg placering",
+  "notesPageChooseDirectionText" : "Vælg retning",
   
   "sideMenuViewTotalPriceText" : "Samlet pris inkl. moms",
   "sideMenuViewSendToArchiveButtonText" : "Send til arkiv",
