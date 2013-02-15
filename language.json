@@ -59,6 +59,8 @@
   "procurementPricePageWriteHerePlaceholderText" : "Skriv her...",
   "procurementPricePageAmountPlaceholderText" : "Antal...",
   "procurementPricePageAddonInfoText" : "Tilvalgsinfo",
+  "procurementPricePageChoosePlacementText" : "Vælg placering",
+  "procurementPricePageChooseDirectionText" : "Vælg retning",
   
   "settingsDropdownChangeDesignText" : "Skift dit design",
   "settingsDropdownYourNumbersText" : "Dine beløb",
