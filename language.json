@@ -56,7 +56,8 @@
   "procurementPricePageChangeAddonsText" : "Læs mere om lydisolering",
   "procurementPricePageChangeAddonsText" : "Læs mere om uv filter",
   "procurementPricePageChangeAddonsText" : "Læs mere om sikkerhed",
-  
+  "procurementPricePageWriteHerePlaceholderText" : "Skriv her...",
+  "procurementPricePageAmountPlaceholderText" : "Antal...",
   
   "settingsDropdownChangeDesignText" : "Skift dit design",
   "settingsDropdownYourNumbersText" : "Dine beløb",
@@ -171,5 +172,4 @@
   "energyCalcPagePaybackText" : "PAYBACK",
   "energyCalcPageTotalSaving" : "SAMLET BESPARELSE",
   "energyCalcPageWriteWriteZipPlaceholderText" : "Skriv postnummer her...",
-  
 }
