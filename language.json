@@ -87,6 +87,7 @@
   "insertMeasurmentePageNumberText" : "Antal",
   "insertMeasurementPageStkText" : "Stk",
   "insertMeasurementPageItemText" : "Styk",
+  "insertMeasurementPageHeaderText" : "Indtast mål",
   
   "chooseFigurePageShapeText" : "Facon",
   "chooseFigurePageGlassDimensionsText" : "Glasmål",
