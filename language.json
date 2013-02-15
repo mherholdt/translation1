@@ -84,6 +84,9 @@
   "insertMeasurementPageRadiusText" : "Radius",
   "insertMeasurementPageHeightText" : "Højde",
   "insertMeasurementPageSearchForCustomerText" : "Søg efter kunde...",
+  "insertMeasurmentePageNumberText" : "Antal",
+  "insertMeasurementPageStkText" : "Stk",
+  "insertMeasurementPageItemText" : "Styk",
   
   "chooseFigurePageShapeText" : "Facon",
   "chooseFigurePageGlassDimensionsText" : "Glasmål",
